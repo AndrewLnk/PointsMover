@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andre\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\andre\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andre\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Points Mover.1943766019.00" t="ExcludeRecursive" />
+    <e p="D:\Work\Points Mover\Points Mover" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Architecture" t="Include">
+            <e p="Components" t="Include">
+              <e p="DotsLineRenderer.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+            <e p="Main" t="Include">
+              <e p="Dots" t="Include">
+                <e p="DotItem.cs" t="Include" />
+                <e p="DotsHolder.cs" t="Include" />
+                <e p="DotsPool.cs" t="Include" />
+                <e p="DotsPositionCreator.cs" t="Include" />
+              </e>
+              <e p="EntryPoint.cs" t="Include" />
+              <e p="ModulesLocation.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Modules" t="Include">
+            <e p="DebugLog.cs" t="Include" />
+            <e p="Interfaces" t="Include">
+              <e p="IBehaviorSync.cs" t="Include" />
+            </e>
+            <e p="Main" t="Include">
+              <e p="SceneResources.cs" t="Include" />
+              <e p="SingletonCenter.cs" t="Include" />
+              <e p="SyncWithBehaviour.cs" t="Include" />
+              <e p="SyncWithBehaviourAnchor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Ui" t="Include">
+            <e p="ButtonPause.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Points Mover.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
