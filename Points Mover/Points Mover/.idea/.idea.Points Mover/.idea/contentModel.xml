@@ -3,8 +3,8 @@
   <component name="ContentModelStore">
     <e p="C:\Users\andre\.Rider2019.3\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\andre\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\andre\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Points Mover.1943766019.00" t="ExcludeRecursive" />
-    <e p="D:\Work\Points Mover\Points Mover" t="IncludeRecursive">
+    <e p="C:\Users\andre\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Points Mover.1276243878.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andre\Documents\GitHub\PointsMover\Points Mover\Points Mover" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">

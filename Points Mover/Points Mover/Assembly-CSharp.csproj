@@ -72,49 +72,49 @@
      <Compile Include="Assets\Scripts\Modules\Main\SyncWithBehaviourAnchor.cs" />
      <Compile Include="Assets\Scripts\Ui\ButtonPause.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.UI">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Timeline">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VectorGraphics">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VectorGraphics.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VectorGraphics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.003">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.003.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.003.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VectorGraphics.Editor">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VectorGraphics.Editor.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.VectorGraphics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.003">
- <HintPath>D:/Work/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.003.dll</HintPath>
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.003.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Users/andre/Documents/GitHub/PointsMover/Points Mover/Points Mover/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity 2019.2.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

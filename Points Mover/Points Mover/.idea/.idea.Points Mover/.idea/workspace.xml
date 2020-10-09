@@ -7,24 +7,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviourAnchor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Interfaces/IBehaviorSync.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/ButtonPause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity 2019.2.14f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/Andrew Lnk/Sea Todo/Sea ToDo/Assets/Scripts/Architecture/ResourcesHolder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviourAnchor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/DebugLog.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Components/DotsLineRenderer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Main/SceneResources.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Components/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsHolder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPositionCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/DebugLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/EntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/Old Projects/New Unity Project/Assets/Marble Space/Scripts/Base/BallControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/ModulesLocation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/EntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Modules/Interfaces/IBehaviorSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPositionCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Components/DotsLineRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Architecture/Components/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,17 +46,18 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviourAnchor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Modules/Main/SyncWithBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPool.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/ModulesLocation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Components/DotsLineRenderer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Components/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/ButtonPause.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/EntryPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/ModulesLocation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/ButtonPause.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Architecture/Main/Dots/DotsPositionCreator.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1idK7bAjSSFGkyXGIMFtZ5T7h6D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,6 +66,7 @@
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -101,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602231864046</updated>
       <workItem from="1602231870702" duration="12580000" />
+      <workItem from="1602244852867" duration="1838000" />
     </task>
     <servers />
   </component>
@@ -109,14 +115,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="437" y="62" key="RiderGenerateDialog" timestamp="1602234564983">
       <screen x="0" y="0" width="1207" height="720" />
     </state>
     <state x="437" y="62" key="RiderGenerateDialog/0.0.1207.720@0.0.1207.720" timestamp="1602234564983" />
-    <state x="267" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1602243083112">
+    <state x="267" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1602246107569">
       <screen x="0" y="0" width="1207" height="720" />
     </state>
-    <state x="267" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1207.720@0.0.1207.720" timestamp="1602243083112" />
+    <state x="267" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1207.720@0.0.1207.720" timestamp="1602246107569" />
   </component>
 </project>

@@ -1,5 +1,5 @@
-﻿using Modules;
-using Modules.Interfaces;
+﻿using Modules.Interfaces;
+using Ui;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -14,26 +14,40 @@ namespace Architecture.Main.Dots
         
         private bool touched;
 
+        private bool HasTouch
+        {
+            get
+            {
+#if UNITY_EDITOR
+                return Input.GetMouseButton(0);
+#else
+                return Input.touchCount > 0;
+#endif
+            }
+        }
+
         public DotsPositionCreator(DotsHolder dotsHolder)
         {
             this.dotsHolder = dotsHolder;
             camera = Camera.main;
+            
+            Object.FindObjectOfType<ButtonPause>().TouchedActions.Add(()=>touched = false);
         }
 
         public void Update()
         {
-            if (Input.GetMouseButtonDown(0) && !touched)
+            if (HasTouch && !touched)
             {
-                Touched();
                 touched = true;
             }
-            else if (!Input.GetMouseButtonDown(0) && touched)
+            else if (!HasTouch && touched)
             {
+                TouchedProcess();
                 touched = false;
             }
         }
 
-        private void Touched()
+        private void TouchedProcess()
         {
             if (EventSystem.current.IsPointerOverGameObject())
                 return;

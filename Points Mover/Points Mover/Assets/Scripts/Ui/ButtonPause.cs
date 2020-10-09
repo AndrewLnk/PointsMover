@@ -1,4 +1,8 @@
-﻿using Modules;
+﻿using System;
+using System.Collections.Generic;
+using Architecture.Main;
+using Architecture.Main.Dots;
+using Modules;
 using Modules.Main;
 using Unity.VectorGraphics;
 using UnityEngine;
@@ -15,7 +19,9 @@ namespace Ui
         private bool activePause;
         private SVGImage viewComponent;
 
-        private void Awake()
+        public readonly List<Action> TouchedActions = new List<Action>();
+
+        private void Start()
         {
             viewComponent = GetComponent<SVGImage>();
 
@@ -36,6 +42,9 @@ namespace Ui
         
         private void UpdateState()
         {
+            foreach (var touchedAction in TouchedActions)
+                touchedAction.Invoke();
+
             viewComponent.sprite = activePause ? viewPause : viewPlay;
             SyncWithBehaviour.Instance.enabled = !activePause;
         }

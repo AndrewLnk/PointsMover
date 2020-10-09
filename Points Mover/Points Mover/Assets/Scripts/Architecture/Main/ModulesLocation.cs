@@ -13,8 +13,7 @@ namespace Architecture.Main
         public DotsHolder DotsHolder;
         public DotsPositionCreator DotsPositionCreator;
         public DotsLineRenderer DotsLineRenderer;
-        
-        
+
         private ModulesLocation() { }
     }
 }
